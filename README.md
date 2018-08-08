@@ -1,2 +1,2 @@
 # SQL
-SQL projects
+SQL practice queries
